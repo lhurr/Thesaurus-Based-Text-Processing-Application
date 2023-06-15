@@ -12,8 +12,7 @@ APP_CONFIG = {'author':
     'class': 'DAAA/2B/02', 
     'adminNo': '2112589'}, 
     'application_welcome': """ST1507 DSAA: Welcome to:\t\t\t\t*\n*\t\t\t\t\t\t\t*\n*  ~ Thesaurus Based Text Processing Application ~""",
-    'module_code': 'ST1507', 
-    'print': 'h'}
+    'module_code': 'ST1507'}
 
 # Runs the main program
 program = Program(APP_CONFIG)
