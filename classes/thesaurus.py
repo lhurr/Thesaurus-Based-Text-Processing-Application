@@ -5,7 +5,7 @@ Admin: 2112589
 '''
 import re
 from utils import Utils
-from tools.keyOrderedDict import KeyOrderedDict
+from classes.keyOrderedDict import KeyOrderedDict
 from .word import Word
 
 class Thesaurus(KeyOrderedDict):

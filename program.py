@@ -6,10 +6,10 @@ Admin: 2112589
 
 # Imports
 from utils import Utils
-from tools.thesaurus import Thesaurus
+from classes.thesaurus import Thesaurus
 from random import shuffle, choice
-from tools.summary import TextSummarization
-from tools.text_process import TextProcessor
+from classes.summary import TextSummarization
+from classes.text_process import TextProcessor
 
 class Program:
     def __init__(self, config):
